@@ -1,0 +1,126 @@
+major, 2010 ld, 2010 ud, 2010 gd, 2011 ld, 2011 ud, 2011 gd, 2012 ld, 2012 ud, 2012 gd, 2013 ld, 2013 ud, 2013 gd, 2014 ld, 2014 ud, 2014 gd
+MATH - Mathematics,89, 190, 0, 112, 204, 1, 134, 210, 2, 137, 203, 1, 103, 231, 0
+ECEN - Electrical & Comp Engineering,54, 120, 6, 64, 111, 11, 58, 94, 5, 78, 105, 6, 84, 124, 3
+EDEL - Elementary Education,8, 150, 0, 13, 169, 0, 11, 155, 0, 28, 142, 0, 26, 146, 0
+PRPT - Pre-Physical Therapy,0, 12, 0, 3, 7, 0, 4, 8, 0, 2, 9, 0, 6, 15, 0
+EDSP - Spanish - Secondary Education,0, 11, 0, 1, 8, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0
+PSYC - Psychology,966, 1243, 1, 1025, 1326, 0, 992, 1293, 0, 1023, 1208, 0, 830, 994, 0
+EDSP - Spanish-Secondary Education,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 1, 7, 0
+PRCM - Pre-Communication,271, 90, 0, 5, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ARCH - Architecture,47, 297, 0, 8, 200, 0, 0, 39, 0, 48, 174, 0, 42, 150, 0
+GRMA - German,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+PLAN - Planning,2, 12, 0, 0, 5, 0, 0, 2, 0, 5, 29, 0, 3, 24, 0
+ITAL - Italian,7, 18, 0, 2, 24, 0, 3, 14, 0, 6, 5, 0, 4, 6, 0
+MWWD - Woodwind Performance,0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 0, 0, 17, 14, 0
+PRCH - Pre-Child Health Associate,0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+PRED - Pre-Education,195, 136, 0, 169, 150, 0, 41, 162, 0, 2, 6, 0, 0, 1, 0
+SPPR - Spanish,20, 104, 0, 24, 84, 0, 20, 75, 0, 11, 58, 0, 8, 33, 0
+AREN - Architectural Engineering,79, 125, 4, 66, 114, 3, 57, 89, 4, 60, 90, 4, 63, 87, 3
+CSEN - Computer Science,93, 172, 1, 103, 177, 4, 124, 211, 4, 142, 232, 5, 178, 242, 1
+EBIO - Ecology & Evolutionary Biology,192, 314, 0, 200, 333, 0, 240, 363, 2, 258, 396, 2, 234, 435, 1
+PRNU - Pre-Nursing,14, 44, 0, 11, 54, 0, 8, 49, 0, 9, 37, 0, 5, 32, 0
+ASEN - Aerospace Engineering Sciences,178, 226, 19, 181, 247, 14, 184, 253, 22, 203, 256, 31, 226, 263, 27
+MBRP - Brass/Percussion Performance,0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 1, 0, 19, 22, 0
+FMST - Film Studies,1, 80, 0, 4, 108, 0, 4, 71, 0, 5, 76, 0, 3, 73, 0
+CHEM - Chemistry,87, 96, 0, 89, 99, 0, 107, 86, 0, 130, 92, 0, 143, 101, 0
+CHEN - Chemical Engineering,72, 145, 1, 73, 123, 1, 127, 119, 0, 138, 163, 1, 126, 203, 0
+MKTG - Marketing,204, 335, 0, 227, 350, 0, 259, 344, 0, 245, 379, 0, 269, 434, 0
+PRJR - Pre-Journalism & Mass Comm,527, 132, 0, 316, 108, 0, 9, 12, 0, 0, 2, 0, 0, 0, 0
+MGMT - Management,209, 287, 0, 294, 242, 0, 266, 284, 0, 197, 334, 0, 186, 413, 0
+JNED - News - Editorial,42, 132, 0, 31, 128, 0, 27, 81, 0, 45, 62, 0, 39, 75, 0
+JWST - Jewish Studies,0, 0, 0, 0, 0, 0, 2, 4, 0, 4, 4, 0, 5, 6, 0
+EDMU - Music Educ-Elem Sec or K-12,0, 25, 0, 0, 33, 0, 0, 36, 0, 0, 41, 0, 0, 35, 0
+MUSE - Music Education (Undergraduate,29, 38, 0, 35, 46, 0, 38, 45, 0, 34, 53, 0, 34, 50, 0
+GEEN - General Engineering,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 34, 8, 0
+PHYS - Physics,121, 156, 1, 165, 159, 1, 177, 162, 1, 171, 173, 1, 172, 191, 0
+MUSC - Music,65, 87, 0, 75, 80, 0, 78, 80, 0, 37, 88, 0, 0, 0, 0
+EPEN - Engineering Physics,44, 69, 1, 42, 75, 0, 43, 92, 0, 41, 83, 1, 49, 96, 0
+RUSS - Russian Studies,10, 33, 0, 6, 30, 0, 8, 26, 0, 9, 19, 0, 9, 16, 0
+"WMST - Womens Studies",15, 36, 0, 14, 33, 0, 11, 35, 0, 7, 26, 0, 17, 19, 0
+PRHL - Pre-Health,0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 6, 0, 23, 46, 0
+IAFS - International Affairs,347, 562, 0, 358, 545, 0, 322, 487, 0, 343, 430, 0, 332, 370, 0
+"ZZAS - Post-Degr Complete Addl Plan",0, 0, 0, 0, 6, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0
+PRDX - Pre-Dentistry,0, 0, 0, 2, 1, 0, 0, 6, 0, 0, 5, 0, 9, 15, 0
+FILM - Film Studies,246, 204, 3, 269, 206, 2, 249, 212, 3, 228, 176, 3, 197, 169, 1
+SOCY - Sociology,189, 449, 0, 207, 448, 0, 194, 424, 0, 230, 358, 0, 209, 337, 0
+MPNO - Piano Performance,0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 2, 0, 4, 6, 0
+CSAP - Computer Science Applications,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+DSGN - Design Studies,6, 76, 0, 1, 61, 0, 0, 18, 0, 1, 25, 0, 0, 7, 0
+BCHM - Biochemistry,180, 239, 0, 192, 225, 0, 180, 216, 0, 176, 225, 0, 163, 246, 0
+MSTG - String Performance,0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 0, 16, 23, 0
+XXBU - Business - Open Option,667, 169, 0, 598, 108, 0, 739, 71, 0, 853, 91, 0, 816, 72, 0
+IPHY - Integrative Physiology,586, 823, 4, 720, 828, 3, 794, 820, 7, 891, 862, 7, 983, 927, 6
+JRGS - Journalism - General Studies,0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+HUMN - Humanities,63, 113, 0, 51, 114, 0, 35, 85, 0, 41, 69, 0, 31, 50, 0
+ZZAS - Post-Degree Additional Major,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 0, 0, 23, 0
+MMCY - Musicology,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0
+AASA - Studio Arts,274, 363, 0, 247, 315, 0, 252, 298, 0, 243, 249, 0, 217, 238, 0
+GRMN - German Studies,7, 29, 0, 9, 30, 0, 10, 20, 1, 10, 25, 0, 15, 13, 0
+EDSC - Science-Secondary Education,0, 49, 0, 1, 45, 0, 1, 34, 0, 1, 29, 0, 0, 32, 0
+JPNS - Japanese,22, 70, 1, 23, 57, 1, 19, 62, 1, 28, 52, 0, 24, 53, 0
+PRJM - Pre-Journalism & Mass Comm,0, 0, 0, 0, 0, 0, 167, 15, 0, 117, 26, 0, 81, 32, 0
+THTR - Theatre,51, 57, 0, 77, 47, 0, 56, 44, 0, 58, 32, 0, 38, 37, 0
+MCMP - Composition,0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 3, 10, 0
+HIST - History,202, 347, 0, 188, 318, 0, 163, 303, 0, 144, 240, 0, 140, 197, 0
+CLAS - Classics,20, 57, 0, 22, 39, 0, 20, 37, 0, 18, 42, 0, 31, 51, 0
+DNCE - Dance,42, 32, 0, 44, 32, 0, 37, 38, 0, 26, 33, 0, 24, 28, 0
+CBEN - Chemical & Biological Engin,75, 143, 1, 84, 153, 0, 131, 140, 0, 144, 179, 1, 167, 188, 0
+SPAN - Spanish,90, 210, 0, 60, 183, 0, 60, 141, 0, 79, 119, 0, 73, 107, 0
+SLHS - Speech Lang Hearing Sciences,82, 143, 0, 97, 150, 0, 96, 143, 0, 96, 117, 0, 97, 134, 0
+PHIL - Philosophy,77, 153, 0, 69, 134, 0, 69, 138, 0, 56, 154, 0, 58, 128, 0
+EDSS - Social Studies-Secondary Educ.,0, 40, 0, 0, 31, 0, 1, 31, 0, 1, 20, 0, 1, 28, 0
+NRSC - Neuroscience,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 178, 246, 0
+EVEN - Environmental Engineering,95, 91, 0, 91, 118, 3, 94, 117, 2, 66, 114, 5, 83, 108, 7
+FNCE - Finance,146, 474, 1, 166, 467, 0, 176, 512, 5, 187, 525, 2, 204, 599, 8
+ANTH - Anthropology,129, 286, 0, 148, 279, 0, 146, 258, 0, 118, 225, 0, 97, 180, 0
+XXJM - Jour Mass Comm - Open Option,15, 0, 0, 25, 0, 0, 46, 0, 0, 26, 0, 0, 33, 1, 0
+MCDB - Biological Sciences-MCD,346, 431, 0, 387, 398, 0, 415, 381, 0, 406, 381, 0, 319, 371, 0
+DIST - Distributed Studies,0, 4, 0, 0, 2, 0, 0, 0, 0, 0, 1, 0, 0, 4, 0
+EDEN - English-Secondary Education,0, 68, 0, 0, 71, 0, 3, 46, 0, 1, 54, 0, 9, 38, 0
+DBFA - Dance,0, 12, 0, 1, 9, 0, 0, 7, 0, 0, 9, 0, 1, 7, 0
+JADV - Advertising,40, 183, 0, 50, 186, 0, 57, 170, 0, 67, 164, 0, 75, 209, 0
+JBCN - Broadcast News,28, 111, 0, 29, 93, 0, 25, 73, 0, 29, 64, 0, 40, 64, 0
+OPIM - Operation Mgmt Info Systems,10, 67, 0, 14, 72, 0, 4, 23, 0, 1, 9, 0, 0, 1, 0
+EDLT - Latin - Secondary Education,0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0
+CVEN - Civil Engineering,100, 186, 21, 90, 202, 3, 75, 213, 12, 91, 195, 8, 96, 155, 10
+PRPH - Pre-Pharmacy,0, 1, 0, 0, 4, 0, 1, 7, 0, 0, 11, 0, 0, 18, 0
+ENGL - English,325, 588, 0, 315, 531, 0, 254, 436, 0, 243, 395, 0, 242, 307, 0
+ACCT - Accounting,80, 238, 13, 89, 223, 8, 85, 233, 8, 80, 262, 10, 86, 284, 12
+EDJP - Japanese - Secondary Education,0, 0, 0, 0, 1, 0, 0, 3, 0, 0, 1, 0, 0, 2, 0
+TBFA - Theatre,16, 39, 0, 12, 36, 0, 15, 27, 0, 22, 30, 0, 23, 35, 0
+EDFR - French - Secondary Education,0, 3, 0, 0, 3, 0, 0, 4, 0, 0, 1, 0, 0, 2, 0
+ENVS - Environmental Studies,345, 421, 0, 397, 462, 0, 345, 459, 0, 344, 426, 0, 346, 377, 0
+JMST - Media Studies,8, 49, 0, 12, 49, 0, 4, 45, 0, 9, 21, 0, 8, 26, 0
+XXMU - Music - Undeclared,1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0
+MVCE - Voice Performance,0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 2, 0, 12, 15, 0
+PREN - Pre-Engineering Arts&Sciences,0, 0, 0, 0, 0, 0, 0, 0, 0, 529, 0, 0, 757, 8, 0
+ETHN - Ethnic Studies,24, 76, 0, 22, 61, 0, 20, 56, 0, 22, 47, 0, 15, 36, 0
+ASIA - Asian Studies,15, 23, 0, 10, 18, 0, 13, 19, 0, 11, 25, 0, 9, 25, 0
+MCLG - Classical Guitar Performance,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0
+GEOG - Geography,33, 160, 0, 50, 157, 0, 44, 140, 0, 40, 128, 0, 38, 115, 0
+MJZZ - Jazz Studies,0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 10, 9, 0
+LAND - Landscape Architecture Studies,0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 29, 0, 2, 22, 0
+AMEN - Applied Mathematics,22, 82, 2, 21, 90, 0, 21, 86, 3, 30, 91, 3, 19, 105, 1
+LING - Linguistics,28, 80, 1, 34, 80, 1, 34, 67, 2, 44, 64, 3, 32, 64, 1
+COMM - Communication,31, 320, 0, 390, 471, 0, 431, 544, 0, 476, 577, 0, 461, 576, 0
+PRMX - Pre-Medical,0, 2, 0, 8, 33, 0, 9, 46, 0, 6, 49, 0, 65, 138, 0
+PRBU - Pre-Business Arts&Sciences,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 67, 0, 0
+ZZZZ - Arts & Sciences w/Bus Classes,0, 6, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+PSCI - Political Science,259, 479, 0, 287, 414, 0, 275, 391, 0, 279, 335, 0, 275, 347, 0
+CSCI - Computer Science,0, 0, 0, 0, 0, 0, 0, 0, 0, 151, 71, 0, 279, 178, 0
+EEEN - Electrical Engineering,52, 93, 11, 53, 112, 5, 58, 115, 5, 50, 112, 7, 58, 105, 5
+GEOL - Geology,66, 125, 0, 73, 135, 0, 81, 144, 0, 93, 144, 0, 72, 158, 0
+XXAS - A&S - Open Option,3046, 125, 0, 2717, 105, 0, 2446, 60, 0, 2489, 41, 0, 2646, 40, 0
+RLST - Religious Studies,6, 22, 0, 9, 20, 1, 7, 20, 1, 11, 12, 0, 11, 11, 0
+AASF - Studio Arts,0, 22, 0, 0, 9, 0, 1, 19, 0, 0, 15, 0, 0, 15, 0
+JBCP - Broadcast Production,15, 40, 0, 5, 45, 0, 12, 32, 0, 12, 22, 0, 14, 38, 0
+XXEN - Engineering - Open Option,271, 11, 0, 247, 8, 0, 180, 6, 0, 205, 4, 0, 210, 5, 0
+FREN - French,17, 35, 0, 15, 34, 0, 11, 36, 0, 9, 31, 0, 15, 22, 1
+ENVD - Environmental Design,327, 54, 0, 345, 158, 0, 292, 301, 0, 175, 67, 0, 156, 57, 0
+EDMA - Mathematics-Secondary Educ.,0, 23, 0, 0, 19, 0, 1, 24, 0, 2, 26, 0, 1, 28, 0
+AAAH - Art History,43, 115, 0, 47, 119, 0, 32, 110, 1, 38, 72, 0, 33, 58, 0
+CHIN - Chinese,15, 53, 0, 23, 49, 0, 16, 51, 0, 23, 44, 0, 12, 37, 0
+ECON - Economics,244, 484, 0, 253, 497, 0, 365, 525, 0, 402, 537, 0, 437, 548, 0
+ASTR - Astronomy,63, 83, 0, 78, 87, 0, 71, 97, 0, 85, 120, 0, 76, 138, 0
+MUSA - Music - Arts,20, 38, 0, 19, 29, 0, 24, 23, 0, 24, 25, 0, 18, 35, 0
+MCEN - Mechanical Engineering,187, 323, 20, 222, 342, 19, 311, 394, 19, 311, 484, 18, 305, 583, 9]
